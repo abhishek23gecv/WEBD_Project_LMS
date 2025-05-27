@@ -24,7 +24,7 @@ A simple and user-friendly **Online Library Management System** designed for sch
 - 🔐 Change Admin Password
 
 #### 📸 Admin Dashboard:
-![Admin Dashboard]
+![Admin Dashboard](https://github.com/abhishek23gecv/WEBD_Project_LMS/blob/main/Images/3%20Updated.png)
 
 ---
 
@@ -66,8 +66,8 @@ A simple and user-friendly **Online Library Management System** designed for sch
 ### 👨‍🎓 Student Panel
 
 - 🌐 URL: [http://localhost/library](http://localhost/library)
-- 📧 Username: `test@gmail.com`
-- 🔑 Password: `Test@123`
+- 📧 Username: `test@example.com`
+- 🔑 Password: `test@123`
 
 ### 👨‍💼 Admin Panel
 
@@ -79,7 +79,7 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ## 🏠 Home Page
 
-![Home Page]
+![Home Page] (https://github.com/abhishek23gecv/WEBD_Project_LMS/blob/main/Images/1%20Updated.png)
 
 ---
 

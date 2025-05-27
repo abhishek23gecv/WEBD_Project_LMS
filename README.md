@@ -79,7 +79,7 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ## 🏠 Home Page
 
-![Home Page] (https://github.com/abhishek23gecv/WEBD_Project_LMS/blob/main/Images/1%20Updated.png)
+![Home Page](https://github.com/abhishek23gecv/WEBD_Project_LMS/blob/main/Images/1%20Updated.png)
 
 ---
 

@@ -38,7 +38,7 @@ A simple and user-friendly **Online Library Management System** designed for sch
 - ♻️ Recover Forgotten Password
 
 #### 📸 Student Dashboard:
-![Student Dashboard]
+![Student Dashboard](https://github.com/abhishek23gecv/WEBD_Project_LMS/blob/main/Images/2.png)
 
 ---
 

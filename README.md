@@ -11,16 +11,16 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ### 👨‍💼 Admin Panel
 
-- 📊 Admin Dashboard
+- 📊 Admin Dashboard  
 - ➕ Add / ✏️ Update / ❌ Delete:
   - Book Categories
   - Authors
-  - Books
+  - Books  
 - 📖 Issue and Return Books:
   - Issue new books to students
-  - Update details upon book return
-- 🔍 Search Students by Student ID
-- 👤 View Student Profiles
+  - Update details upon book return  
+- 🔍 Search Students by Student ID  
+- 👤 View Student Profiles  
 - 🔐 Change Admin Password
 
 #### 📸 Admin Dashboard:
@@ -30,11 +30,11 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ### 👨‍🎓 Student Module
 
-- 📝 Student Registration (Generates Student ID)
-- 🔐 Login and Secure Dashboard Access
-- ✏️ Update Profile
-- 📚 View Issued Books with Return Dates
-- 🔐 Change Password
+- 📝 Student Registration (Generates Student ID)  
+- 🔐 Login and Secure Dashboard Access  
+- ✏️ Update Profile  
+- 📚 View Issued Books with Return Dates  
+- 🔐 Change Password  
 - ♻️ Recover Forgotten Password
 
 #### 📸 Student Dashboard:
@@ -42,22 +42,31 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ---
 
-## 🚀 How to Run This Project
+## 🚀 Live Demo (Hosted on InfinityFree)
+
+You can access the live version of **BookVerse** here:
+
+🔗 **Main Site**: [https://bookverse.great-site.net/](https://bookverse.great-site.net/)  
+🔗 **Admin Panel**: [https://bookverse.great-site.net/admin](https://bookverse.great-site.net/admin)
+
+---
+
+## 💻 Run Locally
 
 ### 1️⃣ Installation
 
-1. **Download** the project `.zip` file and **extract** it.
+1. **Download** the project `.zip` file and **extract** it.  
 2. Move the `library` folder to your web server root directory:
-   - For XAMPP: `htdocs`
-   - For WAMP: `www`
+   - For XAMPP: `htdocs`  
+   - For WAMP: `www`  
 
 ---
 
 ### 2️⃣ Database Configuration
 
-1. Open **phpMyAdmin**
-2. Create a new database named: `library`
-3. Import the file `library.sql` located inside the project folder
+1. Open **phpMyAdmin**  
+2. Create a new database named: `library`  
+3. Import the file `library.sql` located inside the project folder  
 
 ---
 
@@ -65,15 +74,17 @@ A simple and user-friendly **Online Library Management System** designed for sch
 
 ### 👨‍🎓 Student Panel
 
-- 🌐 URL: [http://localhost/library](http://localhost/library)
-- 📧 Username: `test@example.com`
-- 🔑 Password: `test@123`
+- 🌐 **Local URL**: [http://localhost/library](http://localhost/library)  
+- 🌐 **Live URL**: [https://bookverse.great-site.net/](https://bookverse.great-site.net/)  
+- 📧 Username: `test@example.com`  
+- 🔑 Password: `test@123`  
 
 ### 👨‍💼 Admin Panel
 
-- 🌐 URL: [http://localhost/library/admin](http://localhost/library/admin)
-- 👤 Username: `admin`
-- 🔑 Password: `admin@123`
+- 🌐 **Local URL**: [http://localhost/library/admin](http://localhost/library/admin)  
+- 🌐 **Live URL**: [https://bookverse.great-site.net/admin](https://bookverse.great-site.net/admin)  
+- 👤 Username: `admin`  
+- 🔑 Password: `admin@123`  
 
 ---
 
@@ -92,6 +103,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📃 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-

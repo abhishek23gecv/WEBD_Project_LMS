@@ -1,4 +1,4 @@
-# 📚 BookVerse - Online Library Management System (PHP)
+# 📚 BookVerse - Online Library Management System 
 
 A simple and user-friendly **Online Library Management System** designed for schools and colleges. It offers seamless management of library operations through two modules:
 
